@@ -41,10 +41,8 @@ Quick Start
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 More Information
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-* Provision API Overview -> http://exosite.com/products/onep/documentation?cid=
-  4523
-* Provision API Reference -> http://exosite.com/products/onep/documentation?cid=
-  5981
+* Provision API Overview -> http://exosite.com/products/onep/documentation?cid=4523
+* Provision API Reference -> http://exosite.com/products/onep/documentation?cid=5981
 
 **Notes**
 
