@@ -144,7 +144,7 @@ class ProvisionManager():
     print '\r\n\r\n*************************************'
     print __name__,'(create content entity)'
     
-    body = 'id=' + self.contentID + '&description=New_Firmware'
+    body = 'id=' + self.contentID + '&meta=New_Firmware'
     length = len(body)
 
     s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
